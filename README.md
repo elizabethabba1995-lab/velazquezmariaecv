@@ -45,5 +45,5 @@ Soy estudiante de informática apasionada por la ciberseguridad, las redes y la 
 ---
 
 ## 📫 Contacto
-Si querés saber más sobre mi perfil o colaborar en proyectos, ¡escribime!# 
+Si querés saber más sobre mi perfil o colaborar en proyectos, ¡escribime!
 
