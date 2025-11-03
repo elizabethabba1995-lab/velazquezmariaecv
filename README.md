@@ -1,9 +1,11 @@
 # 💻 María Velázquez
 *Estudiante de Ciberseguridad | Soporte Técnico | Redes Informáticas*
 
+udiante de Ciberseguridad | Soporte Técnico | Redes Informáticas*
+
 📍 Buenos Aires, Argentina  
-📧 maria@example.com  
-💼 [LinkedIn](https://linkedin.com/in/mariaexample) | [GitHub](https://github.com/mariaelizavz)
+📧 elizabeth.abba.1995@gmail.com  
+💼 [LinkedIn](linkedin.com/in/maria-elizabeth-velazquez-27a12316a) | [GitHub](https://github.com/velazquezmariaecv)
 
 ---
 
@@ -43,4 +45,5 @@ Soy estudiante de informática apasionada por la ciberseguridad, las redes y la 
 ---
 
 ## 📫 Contacto
-Si querés saber más sobre mi perfil o colaborar en proyectos, ¡escribime!
+Si querés saber más sobre mi perfil o colaborar en proyectos, ¡escribime!# 
+
