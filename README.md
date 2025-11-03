@@ -1,7 +1,5 @@
 # 💻 María Velázquez
-Estudiante de Ciberseguridad | Soporte Técnico | Redes Informáticas*
-
-Estudiante de Ciberseguridad | Soporte Técnico | Redes Informáticas*
+Estudiante de Ciberseguridad | Soporte Técnico | Redes Informáticas
 
 📍 Buenos Aires, Argentina  
 📧 elizabeth.abba.1995@gmail.com  
